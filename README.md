@@ -20,7 +20,7 @@
  
  
 #### :pencil2: Study log
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=koust6u)](https://velog.io/@koust6u) 
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=koust6u)](https://github.com/koust6u/velog-readme-stats)
  
  #### ✅: Languages
