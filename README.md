@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white" />
  </br>
  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white" />
+ <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit&logoColor=white" />
  
  
 #### :pencil2: Study log
