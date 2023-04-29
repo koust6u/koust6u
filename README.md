@@ -20,9 +20,7 @@
  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit&logoColor=white" />
  
  
-#### :pencil2: Study log
 
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=koust6u)](https://velog.io/@koust6u)
  
  #### ✅: Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koust6u&layout=compact"><br>
